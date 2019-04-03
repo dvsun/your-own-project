@@ -1,8 +1,8 @@
 
 
-## Project Goals
-
 * This repository containts a simple statistical analysis of the Heart disease database from UCI. It is the result of an exercise done in Python and Pandas. 
+
+---- MAIN OBJECTIVES
 
 The main focus of the analysis is to check if the presence of chest pain have any correlation with having a heart attack.
 Others minors analysis include:
@@ -11,12 +11,19 @@ Others minors analysis include:
 * Diabetes in correlation with chest pain. 
 * Resting blood pressure (hypertension) and  maximum heart rate achieved in correlation with Age.
 
-
-
 Databases source: Heart disease UCI from Kaggle.com (https://www.kaggle.com/ronitf/heart-disease-uci). 
 
 
+---- FILES & FOLDERS
 
+Main folder: Contains the main analysis of the data (jupyter file "Analysis.ipynb"), a file with code especifically to create plots directly from data, without any proper analysis (jupyter file "Graphs for slides.ipynb") and the present README.
+
+Data: Contains the original source of the data (.zip), the curated data (.csv) and a file explaining difficult concepts from the data (.odt). 
+
+Graphs: Contains plots that are derived for some analysis (.svg). These were used to present the data.
+
+
+---- INSTRUCTIONS FOR THE EXERCICE
 
 ## General schedule
 *Today*
