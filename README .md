@@ -2,23 +2,18 @@
 
 ## Project Goals
 
-* Estimate which is the most studied organism by percentage. The criteria used will be based on the percentage of studied proteins / total proteins of every organism. 
-* Analize the data that are contained in the different databases by different prespectives:
-- From which organism we have more protein structure data?
-- Is there a correlation between the number of gene and the size of the genome?
-- Plot the size of the protein structure solved by year in function of the technique used to determine the structure. 
-- etc... 
- 
+* This repository containts a simple statistical analysis of the Heart disease database from UCI. It is the result of an exercise done in Python and Pandas. 
 
+The main focus of the analysis is to check if the presence of chest pain have any correlation with having a heart attack.
+Others minors analysis include:
 
-* Databases : Uniprot (Proteins general info), Ensembl (Gene general info), PDB (protein structure info)
-
+* Exercise induced angina and maximum heart rate in correlation with heart attack.
+* Diabetes in correlation with chest pain. 
+* Resting blood pressure (hypertension) and  maximum heart rate achieved in correlation with Age.
 
 
 
-
-
-*** Option 2_ Heart disease analysis in UCI. 
+Databases source: Heart disease UCI from Kaggle.com (https://www.kaggle.com/ronitf/heart-disease-uci). 
 
 
 
