@@ -16,7 +16,7 @@ Databases source: Heart disease UCI from Kaggle.com (https://www.kaggle.com/roni
 
 ---- FILES & FOLDERS
 
-Main folder: Contains the main analysis of the data (jupyter file "Analysis.ipynb"), a file with code especifically to create plots directly from data and the present README.
+Main folder: Contains the main analysis of the data (jupyter file "Analysis.ipynb") and the present README file.
 
 Data: Contains the original source of the data (.zip), the curated data (.csv) and a file explaining difficult concepts from the data (.odt). 
 
